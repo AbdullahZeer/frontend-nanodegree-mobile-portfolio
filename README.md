@@ -5,7 +5,6 @@
 * use media="print" for print css.
 * put the CSS Inline the HTML file and import the font.
 * compress all images using compressor.io.
---
 * use responsivebreakpoints.com to resize pizzeria.jpg.
 
 ## pizza.html
