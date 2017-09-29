@@ -5,8 +5,9 @@
 * use media="print" for print css.
 * put the CSS Inline the HTML file and import the font.
 * compress all images using compressor.io.
-* use responsivebreakpoints.com to resize pizzeria.jpg.
 --
+* use responsivebreakpoints.com to resize pizzeria.jpg.
+
 ## pizza.html
 * Changed querySelectorAll() to getElementById or getElementsByClassName
 * make pizzaSize var instead of using document.getElementById("pizzaSize") every time
